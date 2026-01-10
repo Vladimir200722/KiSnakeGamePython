@@ -1,7 +1,7 @@
 # 🐍 Snake AI Arena 🎮
 
 Ein modernes Snake-Game mit **Künstlicher Intelligenz**, lokalem Multiplayer und stylischem Retro-Vibe – entwickelt mit **Python** & **Pygame**.  
-Perfekt als Showpiece für dein Portfolio oder als Grundlage für komplexe Game-Projekte mit KI, Pathfinding und Game-Architecture.
+
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
 ![Pygame](https://img.shields.io/badge/Pygame-2.6-green.svg)

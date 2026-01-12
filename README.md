@@ -36,5 +36,4 @@ Ein modernes Snake-Game mit **Künstlicher Intelligenz**, lokalem Multiplayer un
 
 
 ```bash
-# Beispiel-Command:
 py main.py
